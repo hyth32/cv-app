@@ -1,0 +1,82 @@
+[
+  {
+    "label": "React",
+    "value": "React"
+  },
+  {
+    "label": "Angular",
+    "value": "Angular"
+  },
+  {
+    "label": "Vue.js",
+    "value": "Vue.js"
+  },
+  {
+    "label": "Node.js",
+    "value": "Node.js"
+  },
+  {
+    "label": "Python",
+    "value": "Python"
+  },
+  {
+    "label": "Ruby",
+    "value": "Ruby"
+  },
+  {
+    "label": "Java",
+    "value": "Java"
+  },
+  {
+    "label": "Swift",
+    "value": "Swift"
+  },
+  {
+    "label": "Go",
+    "value": "Go"
+  },
+  {
+    "label": "PHP",
+    "value": "PHP"
+  },
+  {
+    "label": "MongoDB",
+    "value": "MongoDB"
+  },
+  {
+    "label": "MySQL",
+    "value": "MySQL"
+  },
+  {
+    "label": "PostgreSQL",
+    "value": "PostgreSQL"
+  },
+  {
+    "label": "Firebase",
+    "value": "Firebase"
+  },
+  {
+    "label": "DynamoDB",
+    "value": "DynamoDB"
+  },
+  {
+    "label": "Scrum",
+    "value": "Scrum"
+  },
+  {
+    "label": "Kanban",
+    "value": "Kanban"
+  },
+  {
+    "label": "Git",
+    "value": "Git"
+  },
+  {
+    "label": "JIRA",
+    "value": "JIRA"
+  },
+  {
+    "label": "Docker",
+    "value": "Docker"
+  }
+]

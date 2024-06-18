@@ -1,0 +1,362 @@
+[
+  {
+    "label": "Абакан",
+    "value": "Абакан",
+    "disabled": false
+  },
+  {
+    "label": "Анадырь",
+    "value": "Анадырь",
+    "disabled": false
+  },
+  {
+    "label": "Архангельск",
+    "value": "Архангельск",
+    "disabled": false
+  },
+  {
+    "label": "Астрахань",
+    "value": "Астрахань",
+    "disabled": false
+  },
+  {
+    "label": "Барнаул",
+    "value": "Барнаул",
+    "disabled": false
+  },
+  {
+    "label": "Белгород",
+    "value": "Белгород",
+    "disabled": false
+  },
+  {
+    "label": "Бийск",
+    "value": "Бийск",
+    "disabled": false
+  },
+  {
+    "label": "Благовещенск",
+    "value": "Благовещенск",
+    "disabled": false
+  },
+  {
+    "label": "Братск",
+    "value": "Братск",
+    "disabled": false
+  },
+  {
+    "label": "Владивосток",
+    "value": "Владивосток",
+    "disabled": false
+  },
+  {
+    "label": "Владикавказ",
+    "value": "Владикавказ",
+    "disabled": false
+  },
+  {
+    "label": "Владимир",
+    "value": "Владимир",
+    "disabled": false
+  },
+  {
+    "label": "Волгоград",
+    "value": "Волгоград",
+    "disabled": false
+  },
+  {
+    "label": "Волжск",
+    "value": "Волжск",
+    "disabled": false
+  },
+  {
+    "label": "Волжский",
+    "value": "Волжский",
+    "disabled": false
+  },
+  {
+    "label": "Вологда",
+    "value": "Вологда",
+    "disabled": false
+  },
+  {
+    "label": "Воронеж",
+    "value": "Воронеж",
+    "disabled": false
+  },
+  {
+    "label": "Грозный",
+    "value": "Грозный",
+    "disabled": false
+  },
+  {
+    "label": "Дзержинск",
+    "value": "Дзержинск",
+    "disabled": false
+  },
+  {
+    "label": "Екатеринбург",
+    "value": "Екатеринбург",
+    "disabled": false
+  },
+  {
+    "label": "Елец",
+    "value": "Елец",
+    "disabled": false
+  },
+  {
+    "label": "Иваново",
+    "value": "Иваново",
+    "disabled": false
+  },
+  {
+    "label": "Ижевск",
+    "value": "Ижевск",
+    "disabled": false
+  },
+  {
+    "label": "Иркутск",
+    "value": "Иркутск",
+    "disabled": false
+  },
+  {
+    "label": "Йошкар-Ола",
+    "value": "Йошкар-Ола",
+    "disabled": false
+  },
+  {
+    "label": "Казань",
+    "value": "Казань",
+    "disabled": false
+  },
+  {
+    "label": "Калининград",
+    "value": "Калининград",
+    "disabled": false
+  },
+  {
+    "label": "Калуга",
+    "value": "Калуга",
+    "disabled": false
+  },
+  {
+    "label": "Кемерово",
+    "value": "Кемерово",
+    "disabled": false
+  },
+  {
+    "label": "Краснодар",
+    "value": "Краснодар",
+    "disabled": false
+  },
+  {
+    "label": "Красноярск",
+    "value": "Красноярск",
+    "disabled": false
+  },
+  {
+    "label": "Курск",
+    "value": "Курск",
+    "disabled": false
+  },
+  {
+    "label": "Кызыл",
+    "value": "Кызыл",
+    "disabled": false
+  },
+  {
+    "label": "Липецк",
+    "value": "Липецк",
+    "disabled": false
+  },
+  {
+    "label": "Москва",
+    "value": "Москва",
+    "disabled": false
+  },
+  {
+    "label": "Мурманск",
+    "value": "Мурманск",
+    "disabled": false
+  },
+  {
+    "label": "Набережные Челны",
+    "value": "Набережные Челны",
+    "disabled": false
+  },
+  {
+    "label": "Нижний Новгород",
+    "value": "Нижний Новгород",
+    "disabled": false
+  },
+  {
+    "label": "Новокузнецк",
+    "value": "Новокузнецк",
+    "disabled": false
+  },
+  {
+    "label": "Новороссийск",
+    "value": "Новороссийск",
+    "disabled": false
+  },
+  {
+    "label": "Омск",
+    "value": "Омск",
+    "disabled": false
+  },
+  {
+    "label": "Оренбург",
+    "value": "Оренбург",
+    "disabled": false
+  },
+  {
+    "label": "Орёл",
+    "value": "Орёл",
+    "disabled": false
+  },
+  {
+    "label": "Пенза",
+    "value": "Пенза",
+    "disabled": false
+  },
+  {
+    "label": "Пермь",
+    "value": "Пермь",
+    "disabled": false
+  },
+  {
+    "label": "Петрозаводск",
+    "value": "Петрозаводск",
+    "disabled": false
+  },
+  {
+    "label": "Псков",
+    "value": "Псков",
+    "disabled": false
+  },
+  {
+    "label": "Ростов-на-Дону",
+    "value": "Ростов-на-Дону",
+    "disabled": false
+  },
+  {
+    "label": "Рязань",
+    "value": "Рязань",
+    "disabled": false
+  },
+  {
+    "label": "Самара",
+    "value": "Самара",
+    "disabled": false
+  },
+  {
+    "label": "Санкт-Петербург",
+    "value": "Санкт-Петербург",
+    "disabled": false
+  },
+  {
+    "label": "Саратов",
+    "value": "Саратов",
+    "disabled": false
+  },
+  {
+    "label": "Смоленск",
+    "value": "Смоленск",
+    "disabled": false
+  },
+  {
+    "label": "Стерлитамак",
+    "value": "Стерлитамак",
+    "disabled": false
+  },
+  {
+    "label": "Таганрог",
+    "value": "Таганрог",
+    "disabled": false
+  },
+  {
+    "label": "Тамбов",
+    "value": "Тамбов",
+    "disabled": false
+  },
+  {
+    "label": "Тверь",
+    "value": "Тверь",
+    "disabled": false
+  },
+  {
+    "label": "Тольятти",
+    "value": "Тольятти",
+    "disabled": false
+  },
+  {
+    "label": "Томск",
+    "value": "Томск",
+    "disabled": false
+  },
+  {
+    "label": "Тула",
+    "value": "Тула",
+    "disabled": false
+  },
+  {
+    "label": "Тюмень",
+    "value": "Тюмень",
+    "disabled": false
+  },
+  {
+    "label": "Улан-Удэ",
+    "value": "Улан-Удэ",
+    "disabled": false
+  },
+  {
+    "label": "Ульяновск",
+    "value": "Ульяновск",
+    "disabled": false
+  },
+  {
+    "label": "Уфа",
+    "value": "Уфа",
+    "disabled": false
+  },
+  {
+    "label": "Хабаровск",
+    "value": "Хабаровск",
+    "disabled": false
+  },
+  {
+    "label": "Чебоксары",
+    "value": "Чебоксары",
+    "disabled": false
+  },
+  {
+    "label": "Челябинск",
+    "value": "Челябинск",
+    "disabled": false
+  },
+  {
+    "label": "Чита",
+    "value": "Чита",
+    "disabled": false
+  },
+  {
+    "label": "Элиста",
+    "value": "Элиста",
+    "disabled": false
+  },
+  {
+    "label": "Южно-Сахалинск",
+    "value": "Южно-Сахалинск",
+    "disabled": false
+  },
+  {
+    "label": "Якутск",
+    "value": "Якутск",
+    "disabled": false
+  },
+  {
+    "label": "Ярославль",
+    "value": "Ярославль",
+    "disabled": false
+  }
+]

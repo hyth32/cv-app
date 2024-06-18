@@ -1,0 +1,7 @@
+.overlay {
+    @apply fixed inset-0 bg-black opacity-50
+}
+
+.content {
+    @apply relative z-10 bg-white p-6 rounded-lg shadow-md w-[90%] h-[60svh] md:h-[80svh] md:w-[60svw]
+}

@@ -1,0 +1,7 @@
+.card {
+    @apply relative border rounded-lg py-4 px-6 bg-white hover:bg-gray-100 transition-all hover:border-blue-400 cursor-pointer
+}
+
+.cardContent {
+    @apply flex flex-col items-start gap-1.5
+}
